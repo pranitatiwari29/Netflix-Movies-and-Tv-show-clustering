@@ -1,5 +1,5 @@
 # Netflix Movies and TV Shows Clustering
-
+![](https://github.com/pranitatiwari29/Netflix-Movies-and-Tv-show-clustering/blob/main/netflix-intro.gif)
 ## Overview
 
 This project aims to optimize Netflix's content recommendation system for TV Shows and Movies by leveraging advanced data analysis and clustering techniques. The primary objectives include conducting detailed Exploratory Data Analysis (EDA), implementing text-based clustering to categorize similar content, and developing a sophisticated recommendation system to enhance user experience.
